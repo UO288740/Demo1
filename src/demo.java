@@ -2,7 +2,7 @@
 public class demo {
 
 	public static void main(String[] args) {
-		System.out.println("master");
+		System.out.println("Master");
 
 	}
 
